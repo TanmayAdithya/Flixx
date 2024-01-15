@@ -38,7 +38,7 @@ ul {
 
 .active {
   color: var(--color-secondary);
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .back {
