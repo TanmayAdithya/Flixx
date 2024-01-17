@@ -27,8 +27,4 @@ Contributions are welcome! Submit pull requests for bug fixes, features, or UI i
 
 ## License:
 
-This project is licensed under the [MIT License](link-to-license-file) for both personal and commercial use.
-
----
-
-Feel free to further customize it according to your project's specific details!
+This project is licensed under the MIT License for both personal and commercial use.
